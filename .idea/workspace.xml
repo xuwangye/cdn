@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b81426c2-3eb7-4f01-97cc-d815d483e0cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/custom/donate/AliPayQR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/custom/donate/WeChanQR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/custom/donate/WeChanQR.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/custom/wechat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/custom/wechat.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,42 +27,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="jpg" value="6" />
+          <entry key="jpg" value="10" />
           <entry key="png" value="1" />
-          <entry key="svg" value="7" />
+          <entry key="svg" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="7" />
-          <entry key="SVG" value="7" />
+          <entry key="Image" value="11" />
+          <entry key="SVG" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="15" />
+          <entry key="txt" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="PLAIN_TEXT" value="35" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/custom/donate/AliPayQRsmall.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/custom/donate/WeChanQR.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,9 +72,8 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-17" />
-    <option name="y" value="-24" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
     <option name="width" value="1946" />
     <option name="height" value="1106" />
   </component>
@@ -114,13 +101,6 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cdn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cdn" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="donate" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -136,7 +116,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\cdn\img\custom" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cdn\img\custom\donate" />
       <recent name="D:\cdn\img\custom" />
     </key>
   </component>
@@ -166,7 +150,7 @@
       <workItem from="1557460265086" duration="40000" />
       <workItem from="1557460314218" duration="14000" />
       <workItem from="1557460359177" duration="1404000" />
-      <workItem from="1557470398993" duration="713000" />
+      <workItem from="1557470398993" duration="2517000" />
     </task>
     <task id="LOCAL-00001" summary="1 主题图标修改">
       <created>1557466710024</created>
@@ -175,14 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557466710024</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 收款二维码替换自己的">
+      <created>1557473047019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557473047019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3712000" />
+    <option name="totallyTimeSpent" value="5516000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-30" y="88" width="1297" height="737" extended-state="0" />
+    <frame x="7" y="0" width="1297" height="737" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20016143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -218,18 +209,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 主题图标修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 主题图标修改" />
+    <MESSAGE value="1 收款二维码替换自己的" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 收款二维码替换自己的" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/custom/avatar-remark.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/custom/sakura.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/custom/wechat.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/loader/orange.ajax-spinner-preloader.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -251,16 +234,25 @@
     <entry file="file://$PROJECT_DIR$/img/loader/orange.square-circle-preloader.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/custom/avatar.jpg">
+    <entry file="file://$PROJECT_DIR$/img/custom/donate/AliPayQR.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/custom/donate/AliPayQR.jpg">
+    <entry file="file://$PROJECT_DIR$/img/custom/donate/WeChanQR.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/custom/donate/AliPayQRsmall.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/custom/donate/WeChanQR.jpg">
+    <entry file="file://$PROJECT_DIR$/img/custom/wechat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/custom/sakura.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/custom/avatar-remark.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/custom/avatar.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
